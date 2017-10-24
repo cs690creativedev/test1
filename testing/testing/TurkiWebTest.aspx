@@ -37,6 +37,7 @@
             <asp:Button ID="Button1" runat="server" CssClass="auto-style1" style="z-index: 1" Text="Button" />
         </p>
         <asp:Button ID="Button2" runat="server" CssClass="auto-style2" style="z-index: 1" Text="Button" />
+        <asp:Button ID="Button4" runat="server" CssClass="auto-style2" style="z-index: 1" Text="Button" />
     </form>
 </body>
 </html>
