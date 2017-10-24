@@ -16,6 +16,11 @@
             top: 199px;
             left: 10px;
         }
+        .auto-style3 {
+            position: absolute;
+            top: 107px;
+            left: 10px;
+        }
     </style>
 </head>
 <body>
@@ -26,7 +31,8 @@
         <p>
             &nbsp;</p>
         <p>
-            &nbsp;</p>
+            <asp:Button ID="Button3" runat="server" CssClass="auto-style3" style="z-index: 1" Text="Button" />
+        </p>
         <p>
             <asp:Button ID="Button1" runat="server" CssClass="auto-style1" style="z-index: 1" Text="Button" />
         </p>
