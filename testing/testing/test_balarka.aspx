@@ -19,6 +19,7 @@
     
     </div>
         <asp:TextBox ID="TextBox1" runat="server" CssClass="auto-style1" style="z-index: 1"></asp:TextBox>
+        <asp:TextBox ID="TextBox2" runat="server" CssClass="auto-style1" style="z-index: 1"></asp:TextBox>
     </form>
 </body>
 </html>
